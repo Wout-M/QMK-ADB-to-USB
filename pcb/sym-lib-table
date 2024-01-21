@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "adb-usb-converter-rescue")(type "KiCad")(uri "${KIPRJMOD}/adb-usb-converter-rescue.kicad_sym")(options "")(descr ""))
+)
