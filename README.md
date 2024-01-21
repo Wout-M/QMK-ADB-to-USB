@@ -1,5 +1,5 @@
 # QMK ADB to USB Converter
-A custom ADB to USB Converter with an OLED screen, made with QMK, my [Apple Standard Keyboard](https://deskthority.net/wiki/Apple_Standard_Keyboard)
+A custom ADB to USB Converter with an OLED screen, made with QMK, for my vintage [Apple Standard Keyboard](https://deskthority.net/wiki/Apple_Standard_Keyboard)
 
 Special thanks to [tzarc](https://github.com/tzarc) for making the firmware of the converter & [ronangaillard](https://github.com/ronangaillard) for making the PCB.
 
